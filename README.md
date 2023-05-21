@@ -14,4 +14,4 @@ This project is a clone of the google page to practice vertical alignment and ta
 
 ## Preview live
 
-View this page on your browser by clicking [here](https://google-page-clone-seven.vercel.app/).
+View this page in your browser by clicking [here](https://google-page-clone-seven.vercel.app/).
